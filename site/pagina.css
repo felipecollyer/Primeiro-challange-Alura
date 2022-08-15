@@ -1,0 +1,141 @@
+body{
+    background-color: #F3F5FC;
+}
+#cabecalho {
+    background-color: #F3F5FC;
+    height: 100px;
+    padding: 24px 24px;
+}
+
+.CampoDeTexto{
+    display: inline-block;
+    background-color: #F3F5FC;
+    margin-left: 150px;
+    height: 500px;
+    width: 500px; 
+    padding: 24px 24px;
+   
+    
+}
+#aviso{
+    display: inline-block;
+    position: absolute;
+    font-style: italic;
+    font-size: 18px;
+    margin-top: 300px;
+    margin-left: 0px;
+}
+#receberPalavra{
+    display: inline-block;
+    height: 40px;
+    width: 500px;
+    text-align: justify;
+    padding: 0;
+    font-size: 22px;
+    font-family: cursive;
+    background-color: #F3F5FC;
+    border: none;
+    outline: none;
+    color: #0A3871;
+}
+
+.btnCripto{
+    height: 40px;
+    width: 190px;
+    font-family: cursive;
+    border-radius: 24px;
+    font-size: 18px;
+    background-color: #0A3871;
+    color: #F3F5FC;
+    margin-top: 360px;
+}
+
+.btnDescripto{
+    height: 40px;
+    width: 190px;
+    font-family: cursive;
+    border-radius: 24px;
+    font-size: 18px;
+    margin-left: 20px;
+    background-color:#F3F5FC;
+    border-color: #0A3871;
+    color: #0A3871;
+}
+
+#campoLateral{
+    position: relative;
+    height: 800px;
+    width: 400px;
+    margin-top: -700px;
+    margin-left: 700px;
+    background-color: #FFFFFF;
+    border-radius: 24px;
+    
+}
+
+#textoLado1{
+    position: absolute;
+    margin-top: 390px;
+    margin-left: 20px;
+    text-align: center;
+    padding: 20px 50px;
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: cursive;
+}
+#textoLado2{
+    position: absolute;
+    text-align: center;
+    margin-top: 500px;
+    margin-left: 20px;
+    font-family: cursive;
+    padding: 0 50px;
+}
+
+#campoDeResposta{
+    background-color: #FFFFFF;
+    height: 400px;
+    width: 378px;
+    margin-top: 150px;
+    font-size: 20px;
+    padding: 10px 10px;
+    font-family: cursive;
+    resize: none;
+    border: none;
+}
+
+#copiar {
+    height: 40px;
+    width: 190px;
+    font-family: cursive;
+    border-radius: 24px;
+    font-size: 18px;
+    margin-left: 110px;
+    background-color: #0A3871;
+    color: #F3F5FC;
+    display:none;
+    
+    
+}
+
+#imglado{
+    position: absolute;
+    margin-left: 740px;
+    margin-top: -690px;
+}
+
+footer{
+    margin-left: 500px;
+    margin-top: -100px;
+}
+#github{
+    position: absolute;
+    height:100px;
+    margin-left: 70px;
+    margin-top: 15px;
+    
+}
+#linkedin{
+    height: 70px;
+    margin-top: 30px;
+}
